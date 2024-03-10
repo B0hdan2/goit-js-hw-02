@@ -1,3 +1,4 @@
+alert("дякую вам за вашу роботу, ви найкращі ❤️");
 function makeTransaction(quantity, pricePerDroid, customerCredits) {
   const totalPrice = quantity * pricePerDroid;
   if (totalPrice > customerCredits) {
